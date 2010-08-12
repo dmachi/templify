@@ -1,11 +1,4 @@
-cjsTemplate is a small template system written in javascript.  The parser is based on zparse.
+cjsTemplate is a small template system written in javascript.  The parser is originally based on zparse.
 
-Use:
+require("cjsTemplate").Template(resolver(id),options);
 
-var templateString = fs.read("templates/dtkChrome.html");
-var template = Template(templateString);
-var output = template.process(object);
-
-In general it looks like Django Templates, but is not a direct match nor does it come presupplied with all of those formatters.
-
-Further documentation and code to come.
