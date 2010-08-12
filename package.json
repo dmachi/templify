@@ -30,7 +30,7 @@
 		},
 		"npm": {
 			"dependencies": {
-				"commonjs-utils": "*",
+				"commonjs-utils": "*"
 			}
 		}		
 	}
