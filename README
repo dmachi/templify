@@ -1,4 +1,4 @@
-cjsTemplate is a small template system written in javascript.  The parser is originally based on zparse.
+templify is a small template system written in javascript.  The parser is originally based on zparse.
 
-require("cjsTemplate").Template(resolver(id),options);
+require("templify").Template(resolver(id),options);
 
