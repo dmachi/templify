@@ -1,6 +1,6 @@
 {
 	"name": "templify",
-	"version": "0.9",
+	"version": "0.9.1",
 	"description": "A simple template system originally based on zparse",
 	"url": "http://github.com/dmachi/templify",
 	"keywords": ["template","persevere"],
